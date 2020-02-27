@@ -1,0 +1,76 @@
+.ModalContent {
+    display: flex;
+    font-size: 1.4rem;
+}
+
+.Input {
+    outline: none;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    width: 100%;
+    border: 1px solid #eee;
+}
+
+.Invalid {
+    font-size: 1rem;
+    color: red;
+}
+
+.Input:focus {
+    border: 1px solid crimson;
+}
+
+.Label {
+    display: block;
+    margin-bottom: 0.4rem;
+}
+
+.Col {
+    padding: 0 1rem;
+    min-width: 25rem;
+}
+
+@media (max-width:40em) {
+    .ModalContent {
+        flex-direction: column;
+    }
+
+    .Col {
+        min-width: 38rem;
+    }
+}
+
+.PartList {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    list-style: none;
+    text-align: right;
+}
+
+.ListTitle {
+    padding: 0;
+    margin: 0.5rem 0 0 0;
+}
+
+.PartList li {
+    white-space: nowrap;
+    text-align: right;
+}
+
+.TotalPrice {
+    margin-top: auto;
+    font-size: 2rem;
+}
+
+.AlignRight {
+    margin-top: 1rem;
+    padding: 0 1rem;
+    text-align: right;
+}
+
+.AlignRight > * {
+    margin-left: 1rem;
+}

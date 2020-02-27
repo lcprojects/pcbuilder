@@ -1,0 +1,8 @@
+.PC {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    height: 100vh;
+    min-width: 80rem;
+    padding: 4rem;
+}

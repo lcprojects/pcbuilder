@@ -1,0 +1,13 @@
+.PayedMessage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20rem;
+    width: 30rem;
+    font-size: 4rem;
+    font-family: Haettenschweiler, Impact, 'Arial Narrow Bold', sans-serif;
+}
+
+.AlignCenter {
+    text-align: center;
+}

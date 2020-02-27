@@ -1,0 +1,24 @@
+.ToolbarAction {
+    display: inline-block;
+    font-size: 1.2rem;
+}
+
+.ToolbarAction:not(:last-child) {
+    margin-right: 2rem;
+}
+
+.ToolbarAction a {
+    padding: 1rem;
+    font-weight: 500;
+    color: white;
+    background-color: crimson;
+    border-radius: 2rem;
+}
+
+.ToolbarAction a:hover {
+    background-color: rgb(182, 17, 50);
+}
+
+.ToolbarAction a i {
+    margin-right: 0.5rem;
+}

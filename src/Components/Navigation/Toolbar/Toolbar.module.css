@@ -1,0 +1,17 @@
+.Toolbar {
+    display: flex;
+    align-items: center;
+    padding: 2rem;
+    border-bottom: 4px solid crimson;
+}
+
+.Logo {
+    font-family: Haettenschweiler, Impact, 'Arial Narrow Bold', sans-serif;
+    font-size: 4rem;
+    color: rgb(104, 9, 28);
+    text-transform: uppercase;
+}
+
+.Navigation {
+    margin-left: auto;
+}
