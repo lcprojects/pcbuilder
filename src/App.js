@@ -13,7 +13,7 @@ import Layout from './hoc/Layout.js';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Layout>
         <Switch>
           <Route path="/" exact component={PCBuilder}></Route>
