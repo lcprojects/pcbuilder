@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pcbuilder/static/css/main.023b9432.chunk.css",
-    "main.js": "/pcbuilder/static/js/main.0f2b2c63.chunk.js",
-    "main.js.map": "/pcbuilder/static/js/main.0f2b2c63.chunk.js.map",
+    "main.css": "/pcbuilder/static/css/main.b25f5039.chunk.css",
+    "main.js": "/pcbuilder/static/js/main.3b9ea8e1.chunk.js",
+    "main.js.map": "/pcbuilder/static/js/main.3b9ea8e1.chunk.js.map",
     "runtime-main.js": "/pcbuilder/static/js/runtime-main.55f853e2.js",
     "runtime-main.js.map": "/pcbuilder/static/js/runtime-main.55f853e2.js.map",
     "static/js/2.3b46e46d.chunk.js": "/pcbuilder/static/js/2.3b46e46d.chunk.js",
     "static/js/2.3b46e46d.chunk.js.map": "/pcbuilder/static/js/2.3b46e46d.chunk.js.map",
     "index.html": "/pcbuilder/index.html",
-    "precache-manifest.ea3a899ac3299b8befb9651cb00a025e.js": "/pcbuilder/precache-manifest.ea3a899ac3299b8befb9651cb00a025e.js",
+    "precache-manifest.6bab23cdfba7b17a531f61d309b4d085.js": "/pcbuilder/precache-manifest.6bab23cdfba7b17a531f61d309b4d085.js",
     "service-worker.js": "/pcbuilder/service-worker.js",
-    "static/css/main.023b9432.chunk.css.map": "/pcbuilder/static/css/main.023b9432.chunk.css.map",
+    "static/css/main.b25f5039.chunk.css.map": "/pcbuilder/static/css/main.b25f5039.chunk.css.map",
     "static/js/2.3b46e46d.chunk.js.LICENSE.txt": "/pcbuilder/static/js/2.3b46e46d.chunk.js.LICENSE.txt",
     "static/media/amd-radeon-logo.webp": "/pcbuilder/static/media/amd-radeon-logo.6d32efdd.webp",
     "static/media/corsair-logo.svg": "/pcbuilder/static/media/corsair-logo.e777cad2.svg",
@@ -30,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.55f853e2.js",
     "static/js/2.3b46e46d.chunk.js",
-    "static/css/main.023b9432.chunk.css",
-    "static/js/main.0f2b2c63.chunk.js"
+    "static/css/main.b25f5039.chunk.css",
+    "static/js/main.3b9ea8e1.chunk.js"
   ]
 }

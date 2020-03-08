@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "18a52374511dcf627ee5674b9fda62be",
+    "revision": "ba3459c3a7e7791f4e76d3c645564bcb",
     "url": "/pcbuilder/index.html"
   },
   {
-    "revision": "3c6c871513b25430510f",
-    "url": "/pcbuilder/static/css/main.023b9432.chunk.css"
+    "revision": "5007fcca1710d576e70c",
+    "url": "/pcbuilder/static/css/main.b25f5039.chunk.css"
   },
   {
     "revision": "c14153e7788c115aa117",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pcbuilder/static/js/2.3b46e46d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3c6c871513b25430510f",
-    "url": "/pcbuilder/static/js/main.0f2b2c63.chunk.js"
+    "revision": "5007fcca1710d576e70c",
+    "url": "/pcbuilder/static/js/main.3b9ea8e1.chunk.js"
   },
   {
     "revision": "c3886de942076bf2a507",
